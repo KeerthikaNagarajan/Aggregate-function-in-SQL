@@ -1,4 +1,4 @@
-# EX-07:
+# Ex-07:
 ## Aggregate function in SQL
 ### AIM:
 To: 
